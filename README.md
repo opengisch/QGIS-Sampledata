@@ -1,3 +1,5 @@
+#  QGIS Sample Data
+
 All data are projected in Alaska Albers Equal Area with (unit feet) 
 unless otherwise specified (EPSG Code 2964). The dataset contains a
 collection of geodata from several sources with different licenses. 
